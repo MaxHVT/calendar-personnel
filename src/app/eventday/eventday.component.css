@@ -1,0 +1,15 @@
+.block{
+    position:absolute;
+    display:inline-flex;
+    overflow: hidden;
+    background-color: lightskyblue;
+}
+
+.block:hover{
+    overflow: visible;
+}
+
+a{
+    font-size: smaller;
+    white-space: nowrap;
+}
